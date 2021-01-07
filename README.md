@@ -19,7 +19,7 @@ npm 6.14.8
  - Run $ nodemon server.js, and open the browser on localhost://3000 
 
 
-## Live Demo
+## LD
 
 [LD](https://gon-node-web.herokuapp.com/)
 
