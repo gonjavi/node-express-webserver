@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gonjavi/node-express-webserver/issues"
   },
-  "homepage": "https://github.com/gonjavi/node-express-webserver#readme"
+  "homepage": "https://github.com/gonjavi/node-express-webserver#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

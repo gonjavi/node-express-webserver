@@ -11,7 +11,6 @@ http.createServer((req, res) => {
   }
   
   res.write(JSON.stringify(salida));
-  // res.write('Hello');
   res.end();
 })
 .listen(8080);
